@@ -50,7 +50,7 @@ Next, you will need to locate where the existing Twitter Card template is being 
 ```
 root
     layouts
-        _default_
+        _default
             baseof.html
 ```
 
